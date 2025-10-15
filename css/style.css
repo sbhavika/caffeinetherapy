@@ -315,20 +315,7 @@ section {
     margin-top: 0;
 }
 
-.menu .box-container .menu-image-box {
-    width: 100%;
-    max-width: 100%;
-    padding: 1rem;
-    border: var(--border);
-    border-radius: var(--border-radius);
-    background: #fff;
-    margin: 0;
-}
 
-.menu .box-container .menu-image-box:hover {
-    border: var(--border-hover);
-    border-radius: var(--border-radius-hover);
-}
 
 .menu .box-container .menu-full-image {
     width: 100%;
