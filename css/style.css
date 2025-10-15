@@ -472,10 +472,7 @@ section {
         font-size: 4rem;
     }
 
-    .menu .box-container .menu-image-box {
-        padding: 1rem;
-    }
-}
+   
 
 @media (max-width: 450px) {
     html {
