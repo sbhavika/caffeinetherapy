@@ -310,25 +310,7 @@ section {
     padding-top: 3rem;
 }
 
-.menu .box-container .menu-image-box {
-    width: 100%;
-    max-width: 100%;
-    padding: 2rem;
-    border: var(--border);
-    border-radius: var(--border-radius);
-    background: #fff;
-}
 
-.menu .box-container .menu-image-box:hover {
-    border: var(--border-hover);
-    border-radius: var(--border-radius-hover);
-}
-
-.menu .box-container .menu-full-image {
-    width: 100%;
-    height: auto;
-    display: block;
-}
 
 /* BOOK */
 
