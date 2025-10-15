@@ -305,22 +305,18 @@ section {
 
 .menu .box-container {
     display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     padding-top: 3rem;
 }
 
 .menu .box-container .menu-image-box {
     width: 100%;
-    max-width: 120rem;
+    max-width: 100%;
     padding: 2rem;
     border: var(--border);
     border-radius: var(--border-radius);
     background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .menu .box-container .menu-image-box:hover {
@@ -331,8 +327,6 @@ section {
 .menu .box-container .menu-full-image {
     width: 100%;
     height: auto;
-    max-height: none;
-    object-fit: contain;
     display: block;
 }
 
